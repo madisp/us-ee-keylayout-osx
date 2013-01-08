@@ -17,7 +17,7 @@ mkdir -p ~/Library/Keyboard\ Layouts; \
 ## Differences from the Standard U.S. Layout
 
 <table>
-<tr><th>Key combination</th><th>Character</th><tr>
+<tr><th>Key Combination</th><th>Character</th><tr>
 <tr><td>⌥ + ]</td><td>õ</td></tr>
 <tr><td>⌥ + '</td><td>ä</td></tr>
 <tr><td>⌥ + ;</td><td>ö</td></tr>
