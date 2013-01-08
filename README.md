@@ -6,7 +6,11 @@ I really dislike swapping keyboard layouts all the time and using the Estonian l
 
 This is a "port" of the immensely useful "US keyboard with Estonian letters" Linux keyboard layout.
 
-Differences from the standard U.S. layout:
+## Installation
+
+
+
+## Differences from the Standard U.S. Layout
 
 <table>
 <tr><th>Key combination</th><th>Character</th><tr>
