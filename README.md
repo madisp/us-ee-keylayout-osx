@@ -1,7 +1,7 @@
 US/EE Keyboard Layout
 =====================
 
-An U.S. keyboard layout with Estonian keys and the Euro-sign.
+An U.S. keyboard layout with Estonian keys and the Euro-sign for Mac OS X.
 I really dislike swapping keyboard layouts all the time and using the Estonian layout for programming is no good.
 
 This is a "port" of the immensely useful "US keyboard with Estonian letters" Linux keyboard layout.
