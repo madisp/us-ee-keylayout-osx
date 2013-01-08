@@ -22,11 +22,15 @@ mkdir -p ~/Library/Keyboard\ Layouts; \
 <tr><td>⌥ + '</td><td>ä</td></tr>
 <tr><td>⌥ + ;</td><td>ö</td></tr>
 <tr><td>⌥ + [</td><td>ü</td></tr>
+<tr><td>⌥ + s</td><td>š</td></tr>
+<tr><td>⌥ + z</td><td>ž</td></tr>
 <tr><td>⌥ + e</td><td>€</td></tr>
 <tr><td>⇧ + ⌥ + ]</td><td>Õ</td></tr>
 <tr><td>⇧ + ⌥ + '</td><td>Ä</td></tr>
 <tr><td>⇧ + ⌥ + ;</td><td>Ö</td></tr>
 <tr><td>⇧ + ⌥ + [</td><td>Ü</td></tr>
+<tr><td>⇧ + ⌥ + s</td><td>Š</td></tr>
+<tr><td>⇧ + ⌥ + z</td><td>Ž</td></tr>
 </table>
 
 Created with the wonderful Ukelele OS X keyboard layout editor.
