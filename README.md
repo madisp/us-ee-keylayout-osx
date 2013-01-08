@@ -8,7 +8,11 @@ This is a "port" of the immensely useful "US keyboard with Estonian letters" Lin
 
 ## Installation
 
-
+```
+mkdir -p ~/Library/Keyboard\ Layouts; \
+  curl https://github.com/madisp/us-ee-keylayout-osx/raw/master/us_ee.keylayout \
+  -o ~/Library/Keyboard\ Layouts/us_ee.keylayout
+```
 
 ## Differences from the Standard U.S. Layout
 
