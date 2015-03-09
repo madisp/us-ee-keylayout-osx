@@ -11,7 +11,7 @@ This is a "port" of the immensely useful "US keyboard with Estonian letters" Lin
 ```
 mkdir -p ~/Library/Keyboard\ Layouts; \
   curl -Sso ~/Library/Keyboard\ Layouts/us_ee.keylayout \
-  https://raw.github.com/madisp/us-ee-keylayout-osx/master/us_ee.keylayout
+  https://raw.githubusercontent.com/madisp/us-ee-keylayout-osx/master/us_ee.keylayout
 ```
 
 ## Differences from the Standard U.S. Layout
